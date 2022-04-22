@@ -56,7 +56,7 @@ enableRobotsTXT = true
       {name= "instagram",url="https://www.instagram.com/adriandelosreyess/"}
     ]
   # URL for the avatar on homepage
-  avatarURL = "https://sn3302files.storage.live.com/y4miyGuGTPSXOMeUHdKh09PE62ElvNt6xlcLAKybqHpSELhE_PFOZCvXQl6Uqx9LqldYO_FqcfR4V2YQZg94lvc1ETggTsY5XD4_Tx-W6B7pFV7WyUtep6U7wOA8CY-HCFO3jYwLi9e2U1myisyVTmut2M8QGFV8jYqiJ30pgjQHzJiz2Kh1pwp2ECqoZIERRQL?width=720&height=1280&cropmode=none"
+  avatarURL = "https://sn3302files.storage.live.com/y4mB6Rke8hMZdMiKmt7DCLcPfLvYOH6eGtr05dEDitwDuVqTdYRQ9R76durRlAXMx4oHUNRB6RVzgJ91RXgrBOZxPRpr3kmxu2IG7jy_D1ahBM3MvUo2VDRVm_bGZY_PkCvJodWCOjyq6v0Lxhuu8g7JjxVBUpSTTPujHyjY0D4lwYzHrpN-oM1j4mU9_w5jowP?width=720&height=720&cropmode=none"
 
   # Choose one of size-xs, size-s, size-m, size-l & size-xl. (Default: size-m)
   avatarSize = ""
