@@ -11,10 +11,16 @@ enableRobotsTXT = true
 
 [menu]
 [[menu.main]]
+    identifier = "projects"
+    name = "Proyects"
+    url = "/projects/"
+    weight = 1
+    
+[[menu.main]]
     identifier = "about"
     name = "About"
     url = "/about/"
-    weight = 1
+    weight = 2
     
   [[menu.main]]
     # Unique identifer for a menu item
@@ -32,18 +38,18 @@ enableRobotsTXT = true
     name = "Posts"
 
     # Weights are used to determine the ordering
-    weight = 2
+    weight = 3
 
   [[menu.main]]
     identifier = "tags"
     name = "Tags"
     url = "/tags/"
-    weight = 3
+    weight = 4
 
   [[menu.main]]
     identifier = "github"
     url = "https://github.com/adrian120401"
-    weight = 4
+    weight = 5
     
     # We use feather-icons: https://feathericons.com/
     pre = "<span data-feather='github'></span>"
@@ -56,7 +62,7 @@ enableRobotsTXT = true
       {name= "instagram",url="https://www.instagram.com/adriandelosreyess/"}
     ]
   # URL for the avatar on homepage
-  avatarURL = "https://sn3302files.storage.live.com/y4mB6Rke8hMZdMiKmt7DCLcPfLvYOH6eGtr05dEDitwDuVqTdYRQ9R76durRlAXMx4oHUNRB6RVzgJ91RXgrBOZxPRpr3kmxu2IG7jy_D1ahBM3MvUo2VDRVm_bGZY_PkCvJodWCOjyq6v0Lxhuu8g7JjxVBUpSTTPujHyjY0D4lwYzHrpN-oM1j4mU9_w5jowP?width=720&height=720&cropmode=none"
+  avatarURL = "https://sn3302files.storage.live.com/y4mqD6yAvtSBXXC87d4fP_pegkjysZgQ_1EkeKnHRaVgpZnP6AXf0xboYo4hw4vXzoiYt0yG7xkEG-MRpK_0rNDdHofJqa-lAEQsgUcYC6OOK6pEXR8DXbfau2Ve1LEcoewLInVu4aUw3lUj6XFqyGt69jO1lsPdomKGG-P0-aJtivWGyCLD9KO4DhETTJIrRsN?width=479&height=406&cropmode=none"
 
   # Choose one of size-xs, size-s, size-m, size-l & size-xl. (Default: size-m)
   avatarSize = ""
